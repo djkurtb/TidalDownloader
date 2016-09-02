@@ -119,8 +119,8 @@ Partial Public Class MainWindow
         Using oStreamReader As System.IO.StreamReader = oProcess.StandardOutput
             sOutput = oStreamReader.ReadToEnd()
         End Using
-
-        My.Settings.capDevice = InputBox(sOutput.Substring(sOutput.IndexOf("Capture:")).Remove(0, 9), "Choose input device...", My.Settings.capDevice)
+        sOutput = sOutput.Substring(0, sOutput.IndexOf("Capture:"))
+        My.Settings.capDevice = InputBox(sOutput.Substring(sOutput.IndexOf("Playback:")).Remove(0, 10), "Choose input device...", My.Settings.capDevice)
     End Sub
 
 End Class
