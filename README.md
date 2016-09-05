@@ -1,11 +1,12 @@
 # TidalDownloader
 
-USAGE
+##Usage
 ======
-1. RUN AS ADMINISTRATOR.
-2. RIGHT CLICK RECORD BUTTON, CHOOSE AUDIO INPUT DEVICE.
-3. ENTER SONG TITLE AND SONG LENGTH.
-4. QUEUE SONG AND SET SEEK TO 0 SECONDS.
-5. CLICK RECORD BUTTON, TAB INTO MUSIC PLAYER.
+1. Run as administrator.
+2. Right click record button, select audio input. (first run only)
+3. Allow fmedia.exe to run, check never ask again.
+3. Enter song title and length.
+4. Queue song and seek to 0 seconds.
+5. Click record, and tab into your music player.
 
 ### SONGS ARE SAVED TO C:/TIDALRIPS, DOUBLE CLICK "TITLE:" TO OPEN FOLDER.
