@@ -1,7 +1,7 @@
 # TidalDownloader
 
 ##Usage
-======
+
 1. Run as administrator.
 2. Right click record button, select audio input. (first run only)
 3. Allow fmedia.exe to run, check never ask again.
