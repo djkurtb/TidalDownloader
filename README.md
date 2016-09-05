@@ -10,3 +10,5 @@
 5. Click record, and tab into your music player.
 
 ### SONGS ARE SAVED TO C:/TIDALRIPS, DOUBLE CLICK "TITLE:" TO OPEN FOLDER.
+
+[DOWNLOAD](https://github.com/Zephyril/TidalDownloader/releases)
